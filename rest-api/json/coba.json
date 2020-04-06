@@ -1,0 +1,29 @@
+[
+    {
+        "nama" : "Mustofa",
+        "umur" : 32,
+        "nrp" : "043040023",
+        "lulus" : true,
+        "hobby" : ["coding", 
+                "gaming"
+                ],
+        "pembimbing" : {
+            "pembimbing1": "Doddy",
+            "pembimbing2": "Erik Doank"
+        }
+    },
+
+    {
+        "nama" : "Harahap",
+        "umur" : 19,
+        "nrp" : "043040023",
+        "lulus" : true,
+        "hobby" : ["olahraga", 
+                "balapan"
+                ],
+        "pembimbing" : {
+            "pembimbing1": "Ferdiansyah",
+            "pembimbing2": "Uhuy"
+        }
+    }
+]
